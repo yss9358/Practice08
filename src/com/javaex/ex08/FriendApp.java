@@ -12,9 +12,12 @@ public class FriendApp {
 		
 		Friend f01 = new Friend();
 		
-		
+		Friend[] fArray = new Friend[3];
 		
 		for (int i=0; i<3; i++) {
+			String friend = sc.nextLine();
+			
+			
 			
 		}
 		
